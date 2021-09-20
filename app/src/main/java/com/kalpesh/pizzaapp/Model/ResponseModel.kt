@@ -1,4 +1,6 @@
-package com.kalpesh.pizzaapp
+package com.kalpesh.pizzaapp.Model
+
+import com.kalpesh.pizzaapp.Model.CrustModel
 
 data class ResponseModel(
     val crusts: List<CrustModel>,

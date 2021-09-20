@@ -1,5 +1,6 @@
-package com.kalpesh.pizzaapp
+package com.kalpesh.pizzaapp.api
 
+import com.kalpesh.pizzaapp.Model.ResponseModel
 import retrofit2.Call
 import retrofit2.http.GET
 

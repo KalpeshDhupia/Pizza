@@ -1,4 +1,4 @@
-package com.kalpesh.pizzaapp
+package com.kalpesh.pizzaapp.api
 
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

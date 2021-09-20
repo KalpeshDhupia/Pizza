@@ -1,4 +1,4 @@
-package com.kalpesh.pizzaapp
+package com.kalpesh.pizzaapp.Model
 
 data class CrustModel(
     val defaultSize: Int,
